@@ -1,0 +1,242 @@
+{
+    "0": {
+        "z0": 0.0,
+        "d": 0.0,
+        "desc": "no datanull"
+    },
+    "48": {
+        "z0": 0.0,
+        "d": 0.0,
+        "desc": "no datanull"
+    },
+    "255": {
+        "z0": 0.0,
+        "d": 0.0,
+        "desc": "no datanull"
+    },
+    "1": {
+        "z0": 1.0,
+        "d": 0.0,
+        "desc": "Continuous urban fabric 111"
+    },
+    "2": {
+        "z0": 0.8,
+        "d": 0.0,
+        "desc": "Discontinuous urban fabric 112"
+    },
+    "3": {
+        "z0": 0.7,
+        "d": 0.0,
+        "desc": "Industrial or commercial units 121"
+    },
+    "4": {
+        "z0": 0.1,
+        "d": 0.0,
+        "desc": "Road and rail networks and associated land 122"
+    },
+    "5": {
+        "z0": 0.5,
+        "d": 0.0,
+        "desc": "Port areas 123"
+    },
+    "6": {
+        "z0": 0.01,
+        "d": 0.0,
+        "desc": "Airports 124"
+    },
+    "7": {
+        "z0": 0.05,
+        "d": 0.0,
+        "desc": "Mineral extraction sites 131"
+    },
+    "8": {
+        "z0": 0.05,
+        "d": 0.0,
+        "desc": "Dump sites 132"
+    },
+    "9": {
+        "z0": 0.3,
+        "d": 0.0,
+        "desc": "Construction sites 133"
+    },
+    "10": {
+        "z0": 0.8,
+        "d": 0.0,
+        "desc": "Green urban areas 141"
+    },
+    "11": {
+        "z0": 0.2,
+        "d": 0.0,
+        "desc": "Sport and leisure facilities 142"
+    },
+    "12": {
+        "z0": 0.05,
+        "d": 0.0,
+        "desc": "Non-irrigated arable land 211"
+    },
+    "13": {
+        "z0": 0.03,
+        "d": 0.0,
+        "desc": "Permanently irrigated land 212"
+    },
+    "14": {
+        "z0": 0.03,
+        "d": 0.0,
+        "desc": "Rice fields 213"
+    },
+    "15": {
+        "z0": 0.3,
+        "d": 0.0,
+        "desc": "Vineyards 221"
+    },
+    "16": {
+        "z0": 0.4,
+        "d": 0.5,
+        "desc": "Fruit trees and berry plantations 222"
+    },
+    "17": {
+        "z0": 0.4,
+        "d": 0.0,
+        "desc": "Olive groves 223"
+    },
+    "18": {
+        "z0": 0.03,
+        "d": 0.0,
+        "desc": "Pastures 231"
+    },
+    "19": {
+        "z0": 0.1,
+        "d": 0.0,
+        "desc": "Annual crops associated with permanent crops 241"
+    },
+    "20": {
+        "z0": 0.15,
+        "d": 0.0,
+        "desc": "Complex cultivation patterns 242"
+    },
+    "21": {
+        "z0": 0.2,
+        "d": 0.0,
+        "desc": "Land principally occupied by agriculture with significant areas of natural vegetation 243"
+    },
+    "22": {
+        "z0": 0.5,
+        "d": 0.0,
+        "desc": "Agro-forestry areas 244"
+    },
+    "23": {
+        "z0": 1.0,
+        "d": 0.0,
+        "desc": "Broad-leaved forest 311"
+    },
+    "24": {
+        "z0": 1.2,
+        "d": 0.0,
+        "desc": "Coniferous forest 312"
+    },
+    "25": {
+        "z0": 1.1,
+        "d": 0.0,
+        "desc": "Mixed forest 313"
+    },
+    "26": {
+        "z0": 0.03,
+        "d": 0.0,
+        "desc": "Natural grasslands 321"
+    },
+    "27": {
+        "z0": 0.05,
+        "d": 0.0,
+        "desc": "Moors and heathland 322"
+    },
+    "28": {
+        "z0": 0.07,
+        "d": 0.0,
+        "desc": "Sclerophyllous vegetation 323"
+    },
+    "29": {
+        "z0": -999,
+        "d": -999,
+        "desc": "Transitional woodland-shrub 324",
+        "z0s": 0.3,
+        "h": 10.0,
+        "lai": 4.0,
+        "alpha": 3.0,
+        "beta": 2.0
+    },
+    "30": {
+        "z0": 0.003,
+        "d": 0.0,
+        "desc": "Beaches - dunes - sands 331"
+    },
+    "31": {
+        "z0": 0.05,
+        "d": 0.0,
+        "desc": "Bare rocks 332"
+    },
+    "32": {
+        "z0": 0.03,
+        "d": 0.0,
+        "desc": "Sparsely vegetated areas 333"
+    },
+    "33": {
+        "z0": 0.2,
+        "d": 0.0,
+        "desc": "Burnt areas 334"
+    },
+    "34": {
+        "z0": 0.005,
+        "d": 0.0,
+        "desc": "Glaciers and perpetual snow 335"
+    },
+    "35": {
+        "z0": 0.05,
+        "d": 0.0,
+        "desc": "Inland marshes 411"
+    },
+    "36": {
+        "z0": 0.03,
+        "d": 0.0,
+        "desc": "Peat bogs 412"
+    },
+    "37": {
+        "z0": 0.02,
+        "d": 0.0,
+        "desc": "Salt marshes 421"
+    },
+    "38": {
+        "z0": 0.005,
+        "d": 0.0,
+        "desc": "Salines 422"
+    },
+    "39": {
+        "z0": 0.0,
+        "d": 0.0,
+        "desc": "Intertidal flats 423"
+    },
+    "40": {
+        "z0": 0.0,
+        "d": 0.0,
+        "desc": "Water courses 511"
+    },
+    "41": {
+        "z0": 0.0,
+        "d": 0.0,
+        "desc": "Water bodies 512"
+    },
+    "42": {
+        "z0": 0.0,
+        "d": 0.0,
+        "desc": "Coastal lagoons 521"
+    },
+    "43": {
+        "z0": 0.0,
+        "d": 0.0,
+        "desc": "Estuaries 522"
+    },
+    "44": {
+        "z0": 0.0,
+        "d": 0.0,
+        "desc": "Sea and ocean 523"
+    }
+}

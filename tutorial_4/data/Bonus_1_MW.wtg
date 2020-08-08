@@ -1,0 +1,34 @@
+<WindTurbineGenerator FormatVersion="1.01" Description="Bonus 1 MW" ManufacturerName="Bonus Energy A/S" ReferenceURI="" RotorDiameter="54.2">
+    <Comments>Address: Borupvej 16|Address: DK-7330 Brande, Denmark|Phone: +45 99 42 22 22|Fax: +45 97 18 30 86|E-mail: bonus@bonus.dk</Comments>
+    <SuggestedHeights>
+        <Height>50.0</Height>
+    </SuggestedHeights>
+    <PerformanceTable AirDensity="1.225" DataStatus="Unknown" DataSource="" ReferenceURI="None" StationaryThrustCoEfficient="0.161">
+        <StartStopStrategy LowSpeedCutOut="4.0" LowSpeedCutIn="4.0" HighSpeedCutIn="25.0" HighSpeedCutOut="25.0"/>
+        <Comments>Ct at 4 m/s set = Ct(5 m/s)</Comments>
+        <DataTable>
+            <DataPoint WindSpeed="4.0" PowerOutput="24100.0" ThrustCoEfficient="0.915"/>
+            <DataPoint WindSpeed="5.0" PowerOutput="69300.0" ThrustCoEfficient="0.915"/>
+            <DataPoint WindSpeed="6.0" PowerOutput="130000.0" ThrustCoEfficient="0.836"/>
+            <DataPoint WindSpeed="7.0" PowerOutput="219100.0" ThrustCoEfficient="0.956"/>
+            <DataPoint WindSpeed="8.0" PowerOutput="333500.0" ThrustCoEfficient="0.864"/>
+            <DataPoint WindSpeed="9.0" PowerOutput="463100.0" ThrustCoEfficient="0.817"/>
+            <DataPoint WindSpeed="10.0" PowerOutput="598100.0" ThrustCoEfficient="0.703"/>
+            <DataPoint WindSpeed="11.0" PowerOutput="730000.0" ThrustCoEfficient="0.637"/>
+            <DataPoint WindSpeed="12.0" PowerOutput="846500.0" ThrustCoEfficient="0.532"/>
+            <DataPoint WindSpeed="13.0" PowerOutput="928800.0" ThrustCoEfficient="0.467"/>
+            <DataPoint WindSpeed="14.0" PowerOutput="972600.0" ThrustCoEfficient="0.427"/>
+            <DataPoint WindSpeed="15.0" PowerOutput="990800.0" ThrustCoEfficient="0.372"/>
+            <DataPoint WindSpeed="16.0" PowerOutput="997200.0" ThrustCoEfficient="0.325"/>
+            <DataPoint WindSpeed="17.0" PowerOutput="999200.0" ThrustCoEfficient="0.289"/>
+            <DataPoint WindSpeed="18.0" PowerOutput="999800.0" ThrustCoEfficient="0.262"/>
+            <DataPoint WindSpeed="19.0" PowerOutput="999900.0" ThrustCoEfficient="0.239"/>
+            <DataPoint WindSpeed="20.0" PowerOutput="1000000.0" ThrustCoEfficient="0.22"/>
+            <DataPoint WindSpeed="21.0" PowerOutput="1000000.0" ThrustCoEfficient="0.204"/>
+            <DataPoint WindSpeed="22.0" PowerOutput="1000000.0" ThrustCoEfficient="0.191"/>
+            <DataPoint WindSpeed="23.0" PowerOutput="1000000.0" ThrustCoEfficient="0.179"/>
+            <DataPoint WindSpeed="24.0" PowerOutput="1000000.0" ThrustCoEfficient="0.169"/>
+            <DataPoint WindSpeed="25.0" PowerOutput="1000000.0" ThrustCoEfficient="0.161"/>
+        </DataTable>
+    </PerformanceTable>
+</WindTurbineGenerator>
